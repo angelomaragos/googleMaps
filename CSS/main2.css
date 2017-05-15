@@ -1,0 +1,74 @@
+
+header
+{
+background-color: black;
+width:1560px;
+color: white;
+text-align: center;
+padding: 5px;
+}
+
+nav 
+{
+line-height:150px;
+background-color:#eeeeee;
+height:1500px;
+width:130px;
+float:left;
+padding:5px;
+}
+
+main 
+{
+width: 1000px;
+height: 400px;
+padding: 10px;
+float: left;
+}
+
+aside 
+{
+background-color: #eeeeee;
+color:red;
+height:1500px;
+width:400px;
+float: left;
+padding: 5px;
+}
+
+
+
+footer 
+{
+background-color:black;
+width:1560px;
+color:white;
+clear:both;
+text-align:center;
+padding:5px;
+}
+
+
+clickedon {
+  
+  z-index:200;
+}
+
+
+.lshow {
+  background-color:#b3e0ff;
+  display:none;
+  width:400px;
+  z-index:50;
+  text-align:left;
+ 
+}
+
+
+
+
+.hidden { 
+    
+display: none; 
+
+}
